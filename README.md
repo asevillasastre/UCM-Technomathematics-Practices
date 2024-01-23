@@ -19,11 +19,13 @@ You may check [my other projects](https://github.com/asevillasastre?tab=reposito
 
 -----------------------------------------------------------------------------
 
-![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(1).png?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(2).png?raw=true)
+
+
 ![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(3).png?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(4).png?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(5).png?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(2).png?raw=true)
+![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(1).png?raw=true)
+[comment]: <> ![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(4).png?raw=true)
+[comment]: <> ![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(5).png?raw=true)
 ![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(6).png?raw=true)
 ![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(7).png?raw=true)
 ![alt text](https://github.com/asevillasastre/UCM-Technomathematics-Practices/blob/main/images/technomathematics-workflow-image%20(8).png?raw=true)
